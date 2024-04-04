@@ -1,3 +1,3 @@
 # Home
 
-- [GitHub Pages](https://www.google.com/)
+- [Google](https://www.google.com/)
