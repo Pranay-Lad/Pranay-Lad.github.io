@@ -1,3 +1,3 @@
-# [[Home]]
+# Home
 
-- Pranay Lad
+- [GitHub Pages](https://www.google.com/)
